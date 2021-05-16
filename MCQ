@@ -20,5 +20,5 @@ C. Compile fail due to error on line no 8
 
 D. 15
 
-Answer: Option B
+Answer: Option B (Cannot make a static reference to the non-static method add(int, int) from the type A)
 
